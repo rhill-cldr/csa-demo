@@ -16,6 +16,8 @@
 .direnv
 .env
 
+target
+
 # Ansible Navigator assets
 ansible-navigator.log
 runs
