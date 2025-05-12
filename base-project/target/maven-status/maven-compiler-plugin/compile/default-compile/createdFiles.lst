@@ -1,0 +1,8 @@
+com/cloudera/ps/csa/StreamingJob.class
+com/cloudera/ps/csa/StreamingJob$RaiseAlertFlatMap.class
+com/cloudera/ps/csa/util/Alert.class
+com/cloudera/ps/csa/util/SensorTimeAssigner.class
+com/cloudera/ps/csa/util/SensorSource.class
+com/cloudera/ps/csa/util/SensorReading.class
+com/cloudera/ps/csa/util/SmokeLevel.class
+com/cloudera/ps/csa/util/SmokeLevelSource.class
